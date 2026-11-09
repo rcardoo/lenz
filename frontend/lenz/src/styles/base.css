@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    scrollbar-gutter: auto;
+
+    --bg-white-color: #fcfdfd;
+    --black-color: #000000;
+    --gray-text-secunday: #a8aab4;
+    --blue-text: #4a5df9;
+
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}

@@ -1,0 +1,28 @@
+.card-feed {
+    max-width: 320px;
+    border-radius: 10px;
+    border: 0px;
+
+    .card-img-top {
+        object-fit: cover;
+    }
+
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.card-feed-text {
+    max-width: 100%;
+    color: black;
+
+    h3 {
+        color: black;
+    }
+
+
+    p {
+        max-height: 2em;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}

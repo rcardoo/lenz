@@ -1,0 +1,15 @@
+.feed-container {
+    max-width: 97%;
+    height: 100vh;
+}
+
+.feed-publication {
+    max-width: 90%;
+    padding: 0px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
